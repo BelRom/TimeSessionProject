@@ -15,5 +15,6 @@
 
 Пример работы бота
 
-![photo_2025-11-10 17 09 42](https://github.com/user-attachments/assets/b09b1f20-562d-47c6-9a99-d9c5f21a254b)
+![photo_2025-11-10 17 28 57](https://github.com/user-attachments/assets/ae6c0317-f0dc-426f-b5ae-2eb476108a5e)
+
 
