@@ -31,7 +31,7 @@ logging.basicConfig(
 
 # Команда /start
 def start(update: Update, context: CallbackContext) -> int:
-    update.message.reply_text("Привет! Введите код акции  акции (например, AAPL):")
+    update.message.reply_text("Привет! Введите код акции (например, AAPL):")
     return TICKER
 
 # Получение кода акции
